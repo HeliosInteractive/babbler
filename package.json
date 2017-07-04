@@ -1,5 +1,5 @@
 {
-  "name": "email-spellchecker",
+  "name": "@helios-interactive/babbler",
   "main": "dist/babbler.min.js",
   "scripts": {
     "build": "npm run lint && webpack",
